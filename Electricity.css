@@ -1,0 +1,62 @@
+body{
+ background-color: black;   
+}
+.Sesame{
+background-color: hotpink;
+color: black;
+margin: 50px;
+border-radius: 25px;
+height: 150px;
+width: 150px;
+border-color: whitesmoke;
+}
+.Sky{
+background-color: blue;
+color: black;
+margin: 50px;
+border-radius: 25px;
+height: 150px;
+width: 150px;
+border-color: whitesmoke;
+}
+.Salt{
+background-color: yellow;
+color: black;
+margin: 50px;
+border-radius: 25px;
+height: 150px;
+width: 150px;
+border-color: whitesmoke;
+}
+.Shrink{
+background-color: red;
+color: black;
+margin: 50px;
+border-radius: 25px;
+height: 150px;
+width: 150px;
+border-color: whitesmoke;
+}
+.Simmer{
+background-color:green;
+color: black;
+margin: 50px;
+border-radius: 25px;
+height: 150px;
+width: 150px;
+border-color: whitesmoke;
+}
+.Shimmer{
+background-color:orangered;
+color: black;
+margin: 50px;
+border-radius: 25px;
+height: 150px;
+width: 150px;
+border-color: whitesmoke;
+}
+.Base{
+background-color: black;
+color: white;
+border-color: whitesmoke;
+}
