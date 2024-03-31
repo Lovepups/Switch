@@ -8,7 +8,8 @@ document.getElementById("polarbear").style.backgroundColor="Blue"
 }
 function REIP() {
     
-document.getElementById("polarbear").style.backgroundColor="Yellow"  
+document.getElementById("polarbear").style.backgroundColor="Yellow"
+document.getElementById("polarbear").style.color="white"
 }
 function RIP(){
 

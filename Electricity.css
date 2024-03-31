@@ -3,7 +3,7 @@ body{
 }
 .Sesame{
 background-color: hotpink;
-color: black;
+color: white;
 margin: 50px;
 border-radius: 25px;
 height: 150px;
@@ -12,7 +12,7 @@ border-color: whitesmoke;
 }
 .Sky{
 background-color: blue;
-color: black;
+color: white;
 margin: 50px;
 border-radius: 25px;
 height: 150px;
@@ -30,7 +30,7 @@ border-color: whitesmoke;
 }
 .Shrink{
 background-color: red;
-color: black;
+color: white;
 margin: 50px;
 border-radius: 25px;
 height: 150px;
@@ -39,7 +39,7 @@ border-color: whitesmoke;
 }
 .Simmer{
 background-color:green;
-color: black;
+color: white;
 margin: 50px;
 border-radius: 25px;
 height: 150px;
@@ -48,7 +48,7 @@ border-color: whitesmoke;
 }
 .Shimmer{
 background-color:orangered;
-color: black;
+color: white;
 margin: 50px;
 border-radius: 25px;
 height: 150px;
